@@ -8,5 +8,5 @@
 
 https://github.com/marotyuket/lp-practice-static/projects/1
 
-#必要な情報
+# 必要な情報
 XREC　SIGNUPのメールに書かれています
