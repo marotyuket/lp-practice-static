@@ -7,3 +7,6 @@
 タスクの追加・進行・完了時は、プロジェクトの更新も忘れないようにしてください。
 
 https://github.com/marotyuket/lp-practice-static/projects/1
+
+#必要な情報
+XREC　SIGNUPのメールに書かれています
